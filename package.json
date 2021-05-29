@@ -7,7 +7,7 @@
   "scripts": {
     "start": "http-server ./4/ -p $PORT"
   },
-  "devDependencies": {
+  "dependencies": {
     "http-server": "^0.12.3"
   }
 }
