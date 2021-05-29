@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,100italic,300italic);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,100italic,300italic);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 
 @import "css/reset.css";
@@ -625,7 +625,7 @@
 	#main { float: left; margin: 0; position: relative; width: 100%; }
 	
 	.slider-container { backface-visibility: hidden; margin: 0 0 20px; display: table; float: left; height: 100%;	min-height: 100%; overflow: hidden; position: relative; vertical-align: middle; width: 100%;}
-	.slider { background-image:url(http://placehold.it/1920x1000&text=Banner+Image); background-repeat: no-repeat; backface-visibility: hidden; display: table; float: left; height: 100%; width: 100%; }
+	.slider { background-image:url(https://place-hold.it/1920x1000&text=Banner+Image); background-repeat: no-repeat; backface-visibility: hidden; display: table; float: left; height: 100%; width: 100%; }
 	.slider-container .container, .slider-container .parallax { position: static; }	
 	
 	.slider::before, .slider::after { border: 1px solid #1c1c1c; bottom: 0; content: ""; left: 0; margin: 15px; position: absolute; right: 0; top: 0;}
@@ -685,7 +685,7 @@
 	
 		
 	.portfolio-grid { padding: 80px 40px 40px 80px; width:100%; float: left; box-sizing: border-box; }
-	.portfolio-fullwidth { background: url("http://placehold.it/1920x1440&text=Portfolio+Bg+Image") repeat; float: left; width: 100%; margin-bottom: 80px;}
+	.portfolio-fullwidth { background: url("https://place-hold.it/1920x1440&text=Portfolio+Bg+Image") repeat; float: left; width: 100%; margin-bottom: 80px;}
 	
 	.dt-sc-portfolio-container { clear: both; float: left; margin: 0; padding: 0; width: 100%;}
 	.dt-sc-portfolio-container .portfolio { overflow: hidden; position: relative; margin-bottom: 40px;}
